@@ -1,0 +1,51 @@
+﻿문제 번호,제목,레벨,태그,링크
+1000,A+B,1,"implementation, arithmetic, math",https://www.acmicpc.net/problem/1000
+1001,A-B,1,"implementation, arithmetic, math",https://www.acmicpc.net/problem/1001
+1003,피보나치 함수,8,dp,https://www.acmicpc.net/problem/1003
+1008,A/B,1,"implementation, arithmetic, math",https://www.acmicpc.net/problem/1008
+1018,체스판 다시 칠하기,7,bruteforcing,https://www.acmicpc.net/problem/1018
+1085,직사각형에서 탈출,3,"geometry, math",https://www.acmicpc.net/problem/1085
+1152,단어의 개수,4,"implementation, string",https://www.acmicpc.net/problem/1152
+1157,단어 공부,5,"implementation, string",https://www.acmicpc.net/problem/1157
+1181,단어 정렬,6,"sorting, string",https://www.acmicpc.net/problem/1181
+1193,분수찾기,6,"implementation, math",https://www.acmicpc.net/problem/1193
+1259,팰린드롬수,5,"implementation, string",https://www.acmicpc.net/problem/1259
+1269,대칭 차집합,7,"data_structures, hash_set, tree_set",https://www.acmicpc.net/problem/1269
+1316,그룹 단어 체커,6,"implementation, string",https://www.acmicpc.net/problem/1316
+1330,두 수 비교하기,1,implementation,https://www.acmicpc.net/problem/1330
+1427,소트인사이드,6,"sorting, string",https://www.acmicpc.net/problem/1427
+1436,영화감독 숌,6,bruteforcing,https://www.acmicpc.net/problem/1436
+1463,1로 만들기,8,dp,https://www.acmicpc.net/problem/1463
+1546,평균,5,"arithmetic, math",https://www.acmicpc.net/problem/1546
+1620,나는야 포켓몬 마스터 이다솜,7,"data_structures, hash_set",https://www.acmicpc.net/problem/1620
+1654,랜선 자르기,9,"binary_search, parametric_search",https://www.acmicpc.net/problem/1654
+1676,팩토리얼 0의 개수,6,math,https://www.acmicpc.net/problem/1676
+1735,분수 합,8,"euclidean, math, number_theory",https://www.acmicpc.net/problem/1735
+1764,듣보잡,7,"data_structures, hash_set, sorting, string",https://www.acmicpc.net/problem/1764
+1874,스택 수열,9,"data_structures, stack",https://www.acmicpc.net/problem/1874
+1920,수 찾기,7,"binary_search, data_structures, hash_set, sorting",https://www.acmicpc.net/problem/1920
+1929,소수 구하기,8,"math, number_theory, primality_test, sieve",https://www.acmicpc.net/problem/1929
+1934,최소공배수,5,"euclidean, math, number_theory",https://www.acmicpc.net/problem/1934
+1966,프린터 큐,8,"data_structures, implementation, queue, simulation",https://www.acmicpc.net/problem/1966
+1978,소수 찾기,4,"primality_test, number_theory, math",https://www.acmicpc.net/problem/1978
+2108,통계학,9,"implementation, math, sorting",https://www.acmicpc.net/problem/2108
+2164,카드2,7,"data_structures, queue",https://www.acmicpc.net/problem/2164
+2231,분해합,4,bruteforcing,https://www.acmicpc.net/problem/2231
+2292,벌집,4,math,https://www.acmicpc.net/problem/2292
+2438,별 찍기 - 1,1,implementation,https://www.acmicpc.net/problem/2438
+2439,별 찍기 - 2,2,implementation,https://www.acmicpc.net/problem/2439
+2444,별 찍기 - 7,3,implementation,https://www.acmicpc.net/problem/2444
+2475,검증수,1,"implementation, arithmetic, math",https://www.acmicpc.net/problem/2475
+2480,주사위 세개,2,"arithmetic, case_work, implementation, math",https://www.acmicpc.net/problem/2480
+2485,가로수,7,"euclidean, math, number_theory",https://www.acmicpc.net/problem/2485
+2501,약수 구하기,3,"bruteforcing, math",https://www.acmicpc.net/problem/2501
+2525,오븐 시계,3,"arithmetic, math",https://www.acmicpc.net/problem/2525
+2557,Hello World,1,implementation,https://www.acmicpc.net/problem/2557
+2562,최댓값,3,implementation,https://www.acmicpc.net/problem/2562
+2563,색종이,6,implementation,https://www.acmicpc.net/problem/2563
+2566,최댓값,3,implementation,https://www.acmicpc.net/problem/2566
+2577,숫자의 개수,4,"arithmetic, implementation, math",https://www.acmicpc.net/problem/2577
+2581,소수,4,"primality_test, number_theory, math",https://www.acmicpc.net/problem/2581
+2587,대표값2,4,"arithmetic, implementation, math, sorting",https://www.acmicpc.net/problem/2587
+2588,곱셈,3,"arithmetic, math",https://www.acmicpc.net/problem/2588
+2609,최대공약수와 최소공배수,5,"euclidean, math, number_theory",https://www.acmicpc.net/problem/2609
