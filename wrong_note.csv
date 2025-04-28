@@ -14,7 +14,6 @@
 86342719,4107,런타임 에러 (AssertionFailed),,,5달 전,"['arithmetic', 'implementation', 'math', 'simulation']"
 86342368,4107,런타임 에러 (AssertionFailed),,,5달 전,"['arithmetic', 'implementation', 'math', 'simulation']"
 86342352,4107,런타임 에러 (AssertionFailed),,,5달 전,"['arithmetic', 'implementation', 'math', 'simulation']"
-86342352,4107,런타임 에러 (AssertionFailed),,,5달 전,"['arithmetic', 'implementation', 'math', 'simulation']"
 86342339,4107,컴파일 에러,,,5달 전,"['arithmetic', 'implementation', 'math', 'simulation']"
 86342084,4107,틀렸습니다,,,5달 전,"['arithmetic', 'implementation', 'math', 'simulation']"
 86342029,4107,런타임 에러 (AssertionFailed),,,5달 전,"['arithmetic', 'implementation', 'math', 'simulation']"
@@ -40,7 +39,6 @@
 78673280,4134,런타임 에러 (NumberFormat),,,11달 전,"['bruteforcing', 'math', 'number_theory', 'primality_test']"
 70831500,2485,틀렸습니다,,,1년 전,"['euclidean', 'math', 'number_theory']"
 70831496,2485,틀렸습니다,,,1년 전,"['euclidean', 'math', 'number_theory']"
-70831496,2485,틀렸습니다,,,1년 전,"['euclidean', 'math', 'number_theory']"
 70831482,2485,틀렸습니다,,,1년 전,"['euclidean', 'math', 'number_theory']"
 70831477,2485,틀렸습니다,,,1년 전,"['euclidean', 'math', 'number_theory']"
 70831476,2485,틀렸습니다,,,1년 전,"['euclidean', 'math', 'number_theory']"
@@ -52,7 +50,6 @@
 70682748,13241,컴파일 에러,,,1년 전,"['euclidean', 'math', 'number_theory']"
 70678211,11478,시간 초과,,,1년 전,"['data_structures', 'hash_set', 'string', 'tree_set']"
 70676928,1764,틀렸습니다,,,1년 전,"['data_structures', 'hash_set', 'sorting', 'string']"
-70676913,1764,틀렸습니다,,,1년 전,"['data_structures', 'hash_set', 'sorting', 'string']"
 70676913,1764,틀렸습니다,,,1년 전,"['data_structures', 'hash_set', 'sorting', 'string']"
 70676904,1764,틀렸습니다,,,1년 전,"['data_structures', 'hash_set', 'sorting', 'string']"
 70646967,1620,시간 초과,,,1년 전,"['data_structures', 'hash_set']"
@@ -79,7 +76,6 @@
 66895048,11653,런타임 에러 (IndexOutOfBounds),,,1년 전,"['math', 'number_theory', 'primality_test']"
 66894988,11653,시간 초과,,,1년 전,"['math', 'number_theory', 'primality_test']"
 66894505,2581,틀렸습니다,,,1년 전,"['primality_test', 'number_theory', 'math']"
-66894505,2581,틀렸습니다,,,1년 전,"['primality_test', 'number_theory', 'math']"
 66892506,5086,틀렸습니다,,,1년 전,"['arithmetic', 'math']"
 66892369,5086,틀렸습니다,,,1년 전,"['arithmetic', 'math']"
 66892300,5086,틀렸습니다,,,1년 전,"['arithmetic', 'math']"
@@ -100,7 +96,6 @@
 66529476,2941,런타임 에러 (ArrayIndexOutOfBounds),,,1년 전,"['implementation', 'string']"
 66478361,11718,틀렸습니다,,,1년 전,"['implementation', 'string']"
 66478330,11718,런타임 에러 (NullPointer),,,1년 전,"['implementation', 'string']"
-66478330,11718,런타임 에러 (NullPointer),,,1년 전,"['implementation', 'string']"
 66423133,9086,틀렸습니다,,,1년 전,"['implementation', 'string']"
 66423094,9086,틀렸습니다,,,1년 전,"['implementation', 'string']"
 66423071,9086,컴파일 에러,,,1년 전,"['implementation', 'string']"
@@ -115,7 +110,6 @@
 60216140,18111,틀렸습니다,,,1년 전,"['bruteforcing', 'implementation']"
 60182427,18111,틀렸습니다,,,1년 전,"['bruteforcing', 'implementation']"
 60171594,1654,틀렸습니다,,,1년 전,"['binary_search', 'parametric_search']"
-60171543,1654,시간 초과,,,1년 전,"['binary_search', 'parametric_search']"
 60171543,1654,시간 초과,,,1년 전,"['binary_search', 'parametric_search']"
 60170420,1654,틀렸습니다,,,1년 전,"['binary_search', 'parametric_search']"
 60170290,1654,틀렸습니다,,,1년 전,"['binary_search', 'parametric_search']"
@@ -142,7 +136,6 @@
 57276133,10816,런타임 에러 (ArrayIndexOutOfBounds),,,2년 전,"['binary_search', 'data_structures', 'hash_set', 'sorting']"
 57125129,10816,시간 초과,,,2년 전,"['binary_search', 'data_structures', 'hash_set', 'sorting']"
 57114907,10816,시간 초과,,,2년 전,"['binary_search', 'data_structures', 'hash_set', 'sorting']"
-57114907,10816,시간 초과,,,2년 전,"['binary_search', 'data_structures', 'hash_set', 'sorting']"
 51282266,23758,시간 초과,,,2년 전,"['greedy', 'math', 'sorting']"
 51270441,11866,틀렸습니다,,,2년 전,"['data_structures', 'implementation', 'queue']"
 51263370,1920,틀렸습니다,,,2년 전,"['binary_search', 'data_structures', 'hash_set', 'sorting']"
@@ -155,7 +148,6 @@
 50788894,1920,시간 초과,,,2년 전,"['binary_search', 'data_structures', 'hash_set', 'sorting']"
 50788833,1920,메모리 초과,,,2년 전,"['binary_search', 'data_structures', 'hash_set', 'sorting']"
 50788823,1920,메모리 초과,,,2년 전,"['binary_search', 'data_structures', 'hash_set', 'sorting']"
-50788823,1920,메모리 초과,,,2년 전,"['binary_search', 'data_structures', 'hash_set', 'sorting']"
 50527345,1920,시간 초과,,,2년 전,"['binary_search', 'data_structures', 'hash_set', 'sorting']"
 50526270,1920,틀렸습니다,,,2년 전,"['binary_search', 'data_structures', 'hash_set', 'sorting']"
 50499928,1920,컴파일 에러,,,2년 전,"['binary_search', 'data_structures', 'hash_set', 'sorting']"
@@ -167,7 +159,6 @@
 50488426,11050,컴파일 에러,,,2년 전,"['combinatorics', 'implementation', 'math']"
 50451323,10989,런타임 에러 (Segfault),,,2년 전,['sorting']
 50450901,10989,런타임 에러 (Segfault),,,2년 전,['sorting']
-50450896,10989,컴파일 에러,,,2년 전,['sorting']
 50450896,10989,컴파일 에러,,,2년 전,['sorting']
 50450830,10989,런타임 에러 (Segfault),,,2년 전,['sorting']
 50450595,10989,런타임 에러 (OutOfBounds),,,2년 전,['sorting']
@@ -187,7 +178,6 @@
 50447320,15829,50점,1112,0,2년 전,"['hashing', 'implementation', 'string']"
 50447170,15829,틀렸습니다,,,2년 전,"['hashing', 'implementation', 'string']"
 50447124,15829,틀렸습니다,,,2년 전,"['hashing', 'implementation', 'string']"
-50447124,15829,틀렸습니다,,,2년 전,"['hashing', 'implementation', 'string']"
 50447097,15829,틀렸습니다,,,2년 전,"['hashing', 'implementation', 'string']"
 50447081,15829,틀렸습니다,,,2년 전,"['hashing', 'implementation', 'string']"
 50447065,15829,틀렸습니다,,,2년 전,"['hashing', 'implementation', 'string']"
@@ -205,7 +195,6 @@
 50177720,2775,런타임 에러 (ArrayIndexOutOfBounds),,,2년 전,"['dp', 'implementation', 'math']"
 50141716,1654,틀렸습니다,,,2년 전,"['binary_search', 'parametric_search']"
 50140289,1654,시간 초과,,,2년 전,"['binary_search', 'parametric_search']"
-50140150,1654,틀렸습니다,,,2년 전,"['binary_search', 'parametric_search']"
 50140150,1654,틀렸습니다,,,2년 전,"['binary_search', 'parametric_search']"
 50121976,1018,틀렸습니다,,,2년 전,['bruteforcing']
 50121616,1018,틀렸습니다,,,2년 전,['bruteforcing']
@@ -246,5 +235,4 @@
 44591248,10171,컴파일 에러,,,2년 전,['implementation']
 44587667,2557,컴파일 에러,,,2년 전,['implementation']
 38202980,1000,컴파일 에러,,,3년 전,"['implementation', 'arithmetic', 'math']"
-38201937,1000,컴파일 에러,,,3년 전,"['implementation', 'arithmetic', 'math']"
 38201937,1000,컴파일 에러,,,3년 전,"['implementation', 'arithmetic', 'math']"
