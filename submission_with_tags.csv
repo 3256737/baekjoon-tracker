@@ -1,4 +1,11 @@
 ﻿제출 번호,문제 번호,결과,메모리,시간,제출 시간,태그
+93754608,11724,맞았습니다!!,110960,880,4시간 전,"['graphs', 'graph_traversal', 'bfs', 'dfs']"
+93754392,11724,시간 초과,,,4시간 전,"['graphs', 'graph_traversal', 'bfs', 'dfs']"
+93754301,11724,시간 초과,,,4시간 전,"['graphs', 'graph_traversal', 'bfs', 'dfs']"
+93753951,11724,시간 초과,,,4시간 전,"['graphs', 'graph_traversal', 'bfs', 'dfs']"
+93742859,1260,맞았습니다!!,35612,316,7시간 전,"['graphs', 'graph_traversal', 'bfs', 'dfs']"
+93741221,1260,런타임 에러 (TypeError),,,8시간 전,"['graphs', 'graph_traversal', 'bfs', 'dfs']"
+93739313,1260,시간 초과,,,9시간 전,"['graphs', 'graph_traversal', 'bfs', 'dfs']"
 86441618,6139,맞았습니다!!,1112,0,5달 전,"['implementation', 'math', 'simulation']"
 86441332,6139,틀렸습니다,,,5달 전,"['implementation', 'math', 'simulation']"
 86434108,31923,맞았습니다!!,1116,0,5달 전,"['bruteforcing', 'math']"
@@ -237,7 +244,7 @@
 60118066,2869,시간 초과,,,1년 전,['math']
 60115605,10866,맞았습니다!!,23548,320,1년 전,"['data_structures', 'deque', 'implementation']"
 60115522,10845,맞았습니다!!,22784,260,1년 전,"['data_structures', 'queue']"
-60070750,10828,맞았습니다!!,22948,236,1년 전,"['data_structures', 'implementation', 'stack']"
+60070750,10828,맞았습니다!!,22948,236,2년 전,"['data_structures', 'implementation', 'stack']"
 57827701,10828,시간 초과,,,2년 전,"['data_structures', 'implementation', 'stack']"
 57276485,10816,시간 초과,,,2년 전,"['binary_search', 'data_structures', 'hash_set', 'sorting']"
 57276448,10816,맞았습니다!!,197092,888,2년 전,"['binary_search', 'data_structures', 'hash_set', 'sorting']"
