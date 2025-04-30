@@ -1,4 +1,9 @@
 ﻿제출 번호,문제 번호,결과,메모리,시간,제출 시간,태그
+93754392,11724,시간 초과,,,4시간 전,"['graphs', 'graph_traversal', 'bfs', 'dfs']"
+93754301,11724,시간 초과,,,4시간 전,"['graphs', 'graph_traversal', 'bfs', 'dfs']"
+93753951,11724,시간 초과,,,4시간 전,"['graphs', 'graph_traversal', 'bfs', 'dfs']"
+93741221,1260,런타임 에러 (TypeError),,,8시간 전,"['graphs', 'graph_traversal', 'bfs', 'dfs']"
+93739313,1260,시간 초과,,,9시간 전,"['graphs', 'graph_traversal', 'bfs', 'dfs']"
 86441332,6139,틀렸습니다,,,5달 전,"['implementation', 'math', 'simulation']"
 86434100,31923,컴파일 에러,,,5달 전,"['bruteforcing', 'math']"
 86433719,31923,틀렸습니다,,,5달 전,"['bruteforcing', 'math']"
