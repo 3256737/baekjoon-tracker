@@ -3,38 +3,79 @@
 1001,A-B,1,"implementation, arithmetic, math",https://www.acmicpc.net/problem/1001
 1003,피보나치 함수,8,dp,https://www.acmicpc.net/problem/1003
 1008,A/B,1,"implementation, arithmetic, math",https://www.acmicpc.net/problem/1008
+1012,유기농 배추,,,https://www.acmicpc.net/problem/1012
 1018,체스판 다시 칠하기,7,bruteforcing,https://www.acmicpc.net/problem/1018
+1043,거짓말,,,https://www.acmicpc.net/problem/1043
+1074,Z,,,https://www.acmicpc.net/problem/1074
 1085,직사각형에서 탈출,3,"geometry, math",https://www.acmicpc.net/problem/1085
+1149,RGB거리,,,https://www.acmicpc.net/problem/1149
 1152,단어의 개수,4,"implementation, string",https://www.acmicpc.net/problem/1152
 1157,단어 공부,5,"implementation, string",https://www.acmicpc.net/problem/1157
 1181,단어 정렬,6,"sorting, string",https://www.acmicpc.net/problem/1181
 1193,분수찾기,6,"implementation, math",https://www.acmicpc.net/problem/1193
+1197,최소 스패닝 트리,,,https://www.acmicpc.net/problem/1197
+1202,보석 도둑,,,https://www.acmicpc.net/problem/1202
+1237,정ㅋ벅ㅋ,,,https://www.acmicpc.net/problem/1237
+1253,좋다,,,https://www.acmicpc.net/problem/1253
 1259,팰린드롬수,5,"implementation, string",https://www.acmicpc.net/problem/1259
+1260,DFS와 BFS,,"graphs, graph_traversal, bfs, dfs",https://www.acmicpc.net/problem/1260
 1269,대칭 차집합,7,"data_structures, hash_set, tree_set",https://www.acmicpc.net/problem/1269
+1300,K번째 수,,,https://www.acmicpc.net/problem/1300
 1316,그룹 단어 체커,6,"implementation, string",https://www.acmicpc.net/problem/1316
 1330,두 수 비교하기,1,implementation,https://www.acmicpc.net/problem/1330
+1389,케빈 베이컨의 6단계 법칙,,,https://www.acmicpc.net/problem/1389
 1427,소트인사이드,6,"sorting, string",https://www.acmicpc.net/problem/1427
 1436,영화감독 숌,6,bruteforcing,https://www.acmicpc.net/problem/1436
 1463,1로 만들기,8,dp,https://www.acmicpc.net/problem/1463
+1504,특정한 최단 경로,,,https://www.acmicpc.net/problem/1504
+1541,잃어버린 괄호,,,https://www.acmicpc.net/problem/1541
 1546,평균,5,"arithmetic, math",https://www.acmicpc.net/problem/1546
 1620,나는야 포켓몬 마스터 이다솜,7,"data_structures, hash_set",https://www.acmicpc.net/problem/1620
+1629,곱셈,,,https://www.acmicpc.net/problem/1629
 1654,랜선 자르기,9,"binary_search, parametric_search",https://www.acmicpc.net/problem/1654
 1676,팩토리얼 0의 개수,6,math,https://www.acmicpc.net/problem/1676
+1697,숨바꼭질,,,https://www.acmicpc.net/problem/1697
+1707,이분 그래프,,,https://www.acmicpc.net/problem/1707
+1715,카드 정렬하기,,,https://www.acmicpc.net/problem/1715
 1735,분수 합,8,"euclidean, math, number_theory",https://www.acmicpc.net/problem/1735
+1744,수 묶기,,,https://www.acmicpc.net/problem/1744
+1753,최단경로,,,https://www.acmicpc.net/problem/1753
 1764,듣보잡,7,"data_structures, hash_set, sorting, string",https://www.acmicpc.net/problem/1764
+1806,부분합,,,https://www.acmicpc.net/problem/1806
 1874,스택 수열,9,"data_structures, stack",https://www.acmicpc.net/problem/1874
+1916,최소비용 구하기,,,https://www.acmicpc.net/problem/1916
 1920,수 찾기,7,"binary_search, data_structures, hash_set, sorting",https://www.acmicpc.net/problem/1920
+1922,네트워크 연결,,,https://www.acmicpc.net/problem/1922
+1927,최소 힙,,,https://www.acmicpc.net/problem/1927
 1929,소수 구하기,8,"math, number_theory, primality_test, sieve",https://www.acmicpc.net/problem/1929
+1931,회의실 배정,,,https://www.acmicpc.net/problem/1931
+1932,정수 삼각형,,,https://www.acmicpc.net/problem/1932
 1934,최소공배수,5,"euclidean, math, number_theory",https://www.acmicpc.net/problem/1934
 1966,프린터 큐,8,"data_structures, implementation, queue, simulation",https://www.acmicpc.net/problem/1966
+1967,트리의 지름,,,https://www.acmicpc.net/problem/1967
 1978,소수 찾기,4,"primality_test, number_theory, math",https://www.acmicpc.net/problem/1978
+1987,알파벳,,,https://www.acmicpc.net/problem/1987
+1991,트리 순회,,,https://www.acmicpc.net/problem/1991
+2003,수들의 합 2,,,https://www.acmicpc.net/problem/2003
+2096,내려가기,,,https://www.acmicpc.net/problem/2096
 2108,통계학,9,"implementation, math, sorting",https://www.acmicpc.net/problem/2108
+2109,순회강연,,,https://www.acmicpc.net/problem/2109
+2110,공유기 설치,,,https://www.acmicpc.net/problem/2110
+2156,포도주 시식,,,https://www.acmicpc.net/problem/2156
 2164,카드2,7,"data_structures, queue",https://www.acmicpc.net/problem/2164
+2170,선 긋기,,,https://www.acmicpc.net/problem/2170
+2178,미로 탐색,,,https://www.acmicpc.net/problem/2178
 2231,분해합,4,bruteforcing,https://www.acmicpc.net/problem/2231
 2292,벌집,4,math,https://www.acmicpc.net/problem/2292
+2293,동전 1,,,https://www.acmicpc.net/problem/2293
+2343,기타 레슨,,,https://www.acmicpc.net/problem/2343
 2438,별 찍기 - 1,1,implementation,https://www.acmicpc.net/problem/2438
 2439,별 찍기 - 2,2,implementation,https://www.acmicpc.net/problem/2439
 2444,별 찍기 - 7,3,implementation,https://www.acmicpc.net/problem/2444
+2448,별 찍기 - 11,,,https://www.acmicpc.net/problem/2448
+2467,용액,,,https://www.acmicpc.net/problem/2467
+2468,안전 영역,,,https://www.acmicpc.net/problem/2468
+2470,두 용액,,,https://www.acmicpc.net/problem/2470
 2475,검증수,1,"implementation, arithmetic, math",https://www.acmicpc.net/problem/2475
 2480,주사위 세개,2,"arithmetic, case_work, implementation, math",https://www.acmicpc.net/problem/2480
 2485,가로수,7,"euclidean, math, number_theory",https://www.acmicpc.net/problem/2485
@@ -45,10 +86,15 @@
 2563,색종이,6,implementation,https://www.acmicpc.net/problem/2563
 2566,최댓값,3,implementation,https://www.acmicpc.net/problem/2566
 2577,숫자의 개수,4,"arithmetic, implementation, math",https://www.acmicpc.net/problem/2577
+2579,계단 오르기,,dp,https://www.acmicpc.net/problem/2579
 2581,소수,4,"primality_test, number_theory, math",https://www.acmicpc.net/problem/2581
 2587,대표값2,4,"arithmetic, implementation, math, sorting",https://www.acmicpc.net/problem/2587
 2588,곱셈,3,"arithmetic, math",https://www.acmicpc.net/problem/2588
+2606,바이러스,,"graphs, graph_traversal, bfs, dfs",https://www.acmicpc.net/problem/2606
 2609,최대공약수와 최소공배수,5,"euclidean, math, number_theory",https://www.acmicpc.net/problem/2609
+2630,색종이 만들기,,,https://www.acmicpc.net/problem/2630
+2644,촌수계산,,,https://www.acmicpc.net/problem/2644
+2667,단지번호붙이기,,,https://www.acmicpc.net/problem/2667
 2675,문자열 반복,4,"implementation, string",https://www.acmicpc.net/problem/2675
 2720,세탁소 사장 동혁,3,"arithmetic, greedy, math",https://www.acmicpc.net/problem/2720
 2738,행렬 덧셈,3,"arithmetic, implementation, math",https://www.acmicpc.net/problem/2738
@@ -73,32 +119,52 @@
 2941,크로아티아 알파벳,6,"implementation, string",https://www.acmicpc.net/problem/2941
 3003,"킹, 퀸, 룩, 비숍, 나이트, 폰",1,"implementation, arithmetic, math",https://www.acmicpc.net/problem/3003
 3009,네 번째 점,3,"geometry, implementation",https://www.acmicpc.net/problem/3009
+3020,개똥벌레,,,https://www.acmicpc.net/problem/3020
 3052,나머지,4,"arithmetic, math",https://www.acmicpc.net/problem/3052
+3273,두 수의 합,,,https://www.acmicpc.net/problem/3273
 4107,Knitting,4,"arithmetic, implementation, math, simulation",https://www.acmicpc.net/problem/4107
 4134,다음 소수,7,"bruteforcing, math, number_theory, primality_test",https://www.acmicpc.net/problem/4134
 4153,직각삼각형,3,"geometry, math, pythagoras",https://www.acmicpc.net/problem/4153
 4948,베르트랑 공준,9,"math, number_theory, primality_test, sieve",https://www.acmicpc.net/problem/4948
 4949,균형잡힌 세상,7,"data_structures, stack, string",https://www.acmicpc.net/problem/4949
+4963,섬의 개수,,,https://www.acmicpc.net/problem/4963
 5073,삼각형과 세 변,3,"geometry, implementation, math",https://www.acmicpc.net/problem/5073
 5086,배수와 약수,3,"arithmetic, math",https://www.acmicpc.net/problem/5086
+5430,AC,,,https://www.acmicpc.net/problem/5430
 5597,과제 안 내신 분..?,3,implementation,https://www.acmicpc.net/problem/5597
 5622,다이얼,4,implementation,https://www.acmicpc.net/problem/5622
+5639,이진 검색 트리,,,https://www.acmicpc.net/problem/5639
 6139,Speed Reading,4,"implementation, math, simulation",https://www.acmicpc.net/problem/6139
+6236,용돈 관리,,,https://www.acmicpc.net/problem/6236
+6603,로또,,,https://www.acmicpc.net/problem/6603
 7287,등록,1,implementation,https://www.acmicpc.net/problem/7287
 7568,덩치,6,"bruteforcing, implementation",https://www.acmicpc.net/problem/7568
+7569,토마토,,,https://www.acmicpc.net/problem/7569
+7576,토마토,,,https://www.acmicpc.net/problem/7576
+7662,이중 우선순위 큐,,,https://www.acmicpc.net/problem/7662
 7785,회사에 있는 사람,6,"data_structures, hash_set",https://www.acmicpc.net/problem/7785
 8393,합,1,"implementation, math",https://www.acmicpc.net/problem/8393
 8958,OX퀴즈,4,"implementation, string",https://www.acmicpc.net/problem/8958
 9012,괄호,7,"data_structures, stack, string",https://www.acmicpc.net/problem/9012
+9019,DSLR,,,https://www.acmicpc.net/problem/9019
 9063,대지,3,"geometry, implementation, math",https://www.acmicpc.net/problem/9063
 9086,문자열,1,"implementation, string",https://www.acmicpc.net/problem/9086
+9095,"1, 2, 3 더하기",,,https://www.acmicpc.net/problem/9095
+9251,LCS,,,https://www.acmicpc.net/problem/9251
+9375,패션왕 신해빈,,,https://www.acmicpc.net/problem/9375
+9461,파도반 수열,,,https://www.acmicpc.net/problem/9461
+9465,스티커,,,https://www.acmicpc.net/problem/9465
 9498,시험 성적,1,implementation,https://www.acmicpc.net/problem/9498
 9506,약수들의 합,5,"implementation, math, number_theory",https://www.acmicpc.net/problem/9506
+9663,N-Queen,,,https://www.acmicpc.net/problem/9663
+9935,문자열 폭발,,,https://www.acmicpc.net/problem/9935
+10026,적록색약,,,https://www.acmicpc.net/problem/10026
 10101,삼각형 외우기,2,"geometry, implementation",https://www.acmicpc.net/problem/10101
 10171,고양이,1,implementation,https://www.acmicpc.net/problem/10171
 10172,개,1,implementation,https://www.acmicpc.net/problem/10172
 10250,ACM 호텔,3,"arithmetic, implementation, math",https://www.acmicpc.net/problem/10250
 10430,나머지,1,"implementation, arithmetic, math",https://www.acmicpc.net/problem/10430
+10451,순열 사이클,,,https://www.acmicpc.net/problem/10451
 10718,We love kriii,1,implementation,https://www.acmicpc.net/problem/10718
 10773,제로,7,"data_structures, implementation, stack",https://www.acmicpc.net/problem/10773
 10798,세로읽기,5,"implementation, string",https://www.acmicpc.net/problem/10798
@@ -112,6 +178,8 @@
 10816,숫자 카드 2,7,"binary_search, data_structures, hash_set, sorting",https://www.acmicpc.net/problem/10816
 10818,"최소, 최대",3,"implementation, math",https://www.acmicpc.net/problem/10818
 10828,스택,7,"data_structures, implementation, stack",https://www.acmicpc.net/problem/10828
+10830,행렬 제곱,,,https://www.acmicpc.net/problem/10830
+10844,쉬운 계단 수,,,https://www.acmicpc.net/problem/10844
 10845,큐,7,"data_structures, queue",https://www.acmicpc.net/problem/10845
 10866,덱,7,"data_structures, deque, implementation",https://www.acmicpc.net/problem/10866
 10869,사칙연산,1,"implementation, arithmetic, math",https://www.acmicpc.net/problem/10869
@@ -120,39 +188,90 @@
 10950,A+B - 3,1,"implementation, arithmetic, math",https://www.acmicpc.net/problem/10950
 10951,A+B - 4,1,"implementation, arithmetic, math",https://www.acmicpc.net/problem/10951
 10952,A+B - 5,1,"implementation, arithmetic, math",https://www.acmicpc.net/problem/10952
+10971,외판원 순회 2,,,https://www.acmicpc.net/problem/10971
+10972,다음 순열,,,https://www.acmicpc.net/problem/10972
+10973,이전 순열,,,https://www.acmicpc.net/problem/10973
 10987,모음의 개수,2,"implementation, string",https://www.acmicpc.net/problem/10987
 10988,팰린드롬인지 확인하기,3,"implementation, string",https://www.acmicpc.net/problem/10988
 10989,수 정렬하기 3,5,sorting,https://www.acmicpc.net/problem/10989
 10998,A×B,1,"implementation, arithmetic, math",https://www.acmicpc.net/problem/10998
+11000,강의실 배정,,,https://www.acmicpc.net/problem/11000
 11005,진법 변환 2,5,"implementation, math",https://www.acmicpc.net/problem/11005
 11021,A+B - 7,1,"implementation, arithmetic, math",https://www.acmicpc.net/problem/11021
 11022,A+B - 8,1,"implementation, arithmetic, math",https://www.acmicpc.net/problem/11022
 11047,동전 0,7,greedy,https://www.acmicpc.net/problem/11047
 11050,이항 계수 1,5,"combinatorics, implementation, math",https://www.acmicpc.net/problem/11050
+11052,카드 구매하기,,,https://www.acmicpc.net/problem/11052
+11053,가장 긴 증가하는 부분 수열,,,https://www.acmicpc.net/problem/11053
+11054,가장 긴 바이토닉 부분 수열,,,https://www.acmicpc.net/problem/11054
+11057,오르막 수,,,https://www.acmicpc.net/problem/11057
+11066,파일 합치기,,,https://www.acmicpc.net/problem/11066
+11279,최대 힙,,,https://www.acmicpc.net/problem/11279
+11286,절댓값 힙,,,https://www.acmicpc.net/problem/11286
 11382,꼬마 정민,1,"implementation, arithmetic, math",https://www.acmicpc.net/problem/11382
 11399,ATM,7,"greedy, sorting",https://www.acmicpc.net/problem/11399
+11403,경로 찾기,,,https://www.acmicpc.net/problem/11403
+11404,플로이드,,,https://www.acmicpc.net/problem/11404
 11478,서로 다른 부분 문자열의 개수,8,"data_structures, hash_set, string, tree_set",https://www.acmicpc.net/problem/11478
 11650,좌표 정렬하기,6,sorting,https://www.acmicpc.net/problem/11650
 11651,좌표 정렬하기 2,6,sorting,https://www.acmicpc.net/problem/11651
 11653,소인수분해,5,"math, number_theory, primality_test",https://www.acmicpc.net/problem/11653
 11654,아스키 코드,1,implementation,https://www.acmicpc.net/problem/11654
+11659,구간 합 구하기 4,,,https://www.acmicpc.net/problem/11659
+11660,구간 합 구하기 5,,,https://www.acmicpc.net/problem/11660
 11718,그대로 출력하기,3,"implementation, string",https://www.acmicpc.net/problem/11718
 11720,숫자의 합,2,"implementation, math, string",https://www.acmicpc.net/problem/11720
 11723,집합,6,"bitmask, implementation",https://www.acmicpc.net/problem/11723
+11724,연결 요소의 개수,,"graphs, graph_traversal, bfs, dfs",https://www.acmicpc.net/problem/11724
+11725,트리의 부모 찾기,,,https://www.acmicpc.net/problem/11725
+11726,2×n 타일링,,,https://www.acmicpc.net/problem/11726
+11727,2×n 타일링 2,,,https://www.acmicpc.net/problem/11727
 11866,요세푸스 문제 0,7,"data_structures, implementation, queue",https://www.acmicpc.net/problem/11866
+12015,가장 긴 증가하는 부분 수열 2,,,https://www.acmicpc.net/problem/12015
+12738,가장 긴 증가하는 부분 수열 3,,,https://www.acmicpc.net/problem/12738
+12851,숨바꼭질 2,,,https://www.acmicpc.net/problem/12851
+12865,평범한 배낭,,,https://www.acmicpc.net/problem/12865
+13172,Σ,,,https://www.acmicpc.net/problem/13172
 13241,최소공배수,6,"euclidean, math, number_theory",https://www.acmicpc.net/problem/13241
+13334,철로,,,https://www.acmicpc.net/problem/13334
+13549,숨바꼭질 3,,,https://www.acmicpc.net/problem/13549
+13904,과제,,,https://www.acmicpc.net/problem/13904
 14215,세 막대,3,"geometry, implementation, math",https://www.acmicpc.net/problem/14215
 14425,문자열 집합,7,"data_structures, hash_set, string, tree_set",https://www.acmicpc.net/problem/14425
+14465,소가 길을 건너간 이유 5,,,https://www.acmicpc.net/problem/14465
+14500,테트로미노,,,https://www.acmicpc.net/problem/14500
+14501,퇴사,,,https://www.acmicpc.net/problem/14501
+14502,연구소,,,https://www.acmicpc.net/problem/14502
+14626,ISBN,,,https://www.acmicpc.net/problem/14626
 14681,사분면 고르기,1,"implementation, geometry",https://www.acmicpc.net/problem/14681
 14924,폰 노이만과 파리,2,"arithmetic, math",https://www.acmicpc.net/problem/14924
+14938,서강그라운드,,,https://www.acmicpc.net/problem/14938
+14940,쉬운 최단거리,,,https://www.acmicpc.net/problem/14940
 15552,빠른 A+B,2,"implementation, arithmetic, math",https://www.acmicpc.net/problem/15552
-15829,Hashing,4,"hashing, implementation, string",https://www.acmicpc.net/problem/15829
+15649,N과 M (1),,,https://www.acmicpc.net/problem/15649
+15650,N과 M (2),,,https://www.acmicpc.net/problem/15650
+15652,N과 M (4),,,https://www.acmicpc.net/problem/15652
+15654,N과 M (5),,,https://www.acmicpc.net/problem/15654
+15663,N과 M (9),,,https://www.acmicpc.net/problem/15663
+15666,N과 M (12),,,https://www.acmicpc.net/problem/15666
+15686,치킨 배달,,,https://www.acmicpc.net/problem/15686
 15894,수학은 체육과목 입니다,3,"arithmetic, math",https://www.acmicpc.net/problem/15894
+15988,"1, 2, 3 더하기 3",,,https://www.acmicpc.net/problem/15988
+16430,제리와 톰,,,https://www.acmicpc.net/problem/16430
+16472,고냥이,,,https://www.acmicpc.net/problem/16472
+16928,뱀과 사다리 게임,,,https://www.acmicpc.net/problem/16928
+16953,A → B,,,https://www.acmicpc.net/problem/16953
+17070,파이프 옮기기 1,,,https://www.acmicpc.net/problem/17070
 17219,비밀번호 찾기,7,"data_structures, hash_set",https://www.acmicpc.net/problem/17219
 17502,클레어와 팰린드롬,4,"implementation, string",https://www.acmicpc.net/problem/17502
+17626,Four Squares,,,https://www.acmicpc.net/problem/17626
 18108,1998년생인 내가 태국에서는 2541년생?!,1,"arithmetic, math",https://www.acmicpc.net/problem/18108
+18110,solved.ac,,,https://www.acmicpc.net/problem/18110
+18111,마인크래프트,,"bruteforcing, implementation",https://www.acmicpc.net/problem/18111
 18870,좌표 압축,9,"coordinate_compression, sorting",https://www.acmicpc.net/problem/18870
 19532,수학은 비대면강의입니다,4,"bruteforcing, math",https://www.acmicpc.net/problem/19532
+21736,헌내기는 친구가 필요해,,,https://www.acmicpc.net/problem/21736
+23758,중앙값 제거,,"greedy, math, sorting",https://www.acmicpc.net/problem/23758
 24262,알고리즘 수업 - 알고리즘의 수행 시간 1,1,"implementation, simulation",https://www.acmicpc.net/problem/24262
 24263,알고리즘 수업 - 알고리즘의 수행 시간 2,2,"implementation, simulation",https://www.acmicpc.net/problem/24263
 24264,알고리즘 수업 - 알고리즘의 수행 시간 3,3,"arithmetic, implementation, math, simulation",https://www.acmicpc.net/problem/24264
@@ -160,6 +279,7 @@
 24266,알고리즘 수업 - 알고리즘의 수행 시간 5,3,"implementation, math, simulation",https://www.acmicpc.net/problem/24266
 24267,알고리즘 수업 - 알고리즘의 수행 시간 6,4,"implementation, math, simulation",https://www.acmicpc.net/problem/24267
 24313,알고리즘 수업 - 점근적 표기 1,6,math,https://www.acmicpc.net/problem/24313
+24883,자동완성,,,https://www.acmicpc.net/problem/24883
 25083,새싹,1,implementation,https://www.acmicpc.net/problem/25083
 25206,너의 평점은,6,"implementation, math, string",https://www.acmicpc.net/problem/25206
 25304,영수증,2,"arithmetic, implementation, math",https://www.acmicpc.net/problem/25304
@@ -167,5 +287,11 @@
 25314,코딩은 체육과목 입니다,1,implementation,https://www.acmicpc.net/problem/25314
 27323,직사각형,1,"arithmetic, geometry, math",https://www.acmicpc.net/problem/27323
 27866,문자와 문자열,1,"implementation, string",https://www.acmicpc.net/problem/27866
+28702,FizzBuzz,,,https://www.acmicpc.net/problem/28702
+30143,Cookie Piles,,,https://www.acmicpc.net/problem/30143
+30501,관공... 어찌하여 목만 오셨소...,,,https://www.acmicpc.net/problem/30501
 30802,웰컴 키트,3,"arithmetic, implementation, math",https://www.acmicpc.net/problem/30802
+30804,과일 탕후루,,,https://www.acmicpc.net/problem/30804
+31403,$A + B - C$,,,https://www.acmicpc.net/problem/31403
 31923,마라탕후루,4,"bruteforcing, math",https://www.acmicpc.net/problem/31923
+32314,Christmas Tree Adapter,,,https://www.acmicpc.net/problem/32314
